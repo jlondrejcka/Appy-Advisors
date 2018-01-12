@@ -1,0 +1,1247 @@
+[
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app",
+        {
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1515708902070,
+            "changeTime": 1515708902070,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main",
+        {
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1515708902070,
+            "changeTime": 1515708902070,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default",
+        {
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1515708902070,
+            "changeTime": 1515708902070,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1515708902070,
+            "changeTime": 1515708902070,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy",
+        {
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy",
+            "isDirectory": true,
+            "size": 256,
+            "modifiedTime": 1515708926932,
+            "changeTime": 1515708926932,
+            "contentHash": "e232be9a20660ee05912cb3461f8723322e7ae96",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/applications",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1515716346387,
+            "changeTime": 1515716346387,
+            "contentHash": "aa5138724ad9ba670d340657cd866c04b6bd4e4e"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/classes",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1515716346391,
+            "changeTime": 1515716346391,
+            "contentHash": "a5e748c80070e038120f993399a06d7b8d2ffd96"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/contentassets",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/contentassets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1515716346395,
+            "changeTime": 1515716346395,
+            "contentHash": "50db03e3040163311f02f501d8e3997e4015db55"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/email",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/email",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1515716346399,
+            "changeTime": 1515716346399,
+            "contentHash": "e519ba981cc0a735b2dd8837612662fc1fd86996"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/email/AppxGeniusBar",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/email/AppxGeniusBar",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1515716346519,
+            "changeTime": 1515716346519,
+            "contentHash": "d5656be5f9c9381db280071ff2e6d1bf140c7ae6"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/flexipages",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1515716346406,
+            "changeTime": 1515716346406,
+            "contentHash": "d5ec1601f9f4dca7e815d05b98d2a84dda91e7c0"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1515716346413,
+            "changeTime": 1515716346413,
+            "contentHash": "784f4f963ae1d78600f03f941db66b2dd661bdba"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1515716346448,
+            "changeTime": 1515716346448,
+            "contentHash": "6a035fc5c1ad335012a48a29cd83b970528a8ee2"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/Account",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1515716346419,
+            "changeTime": 1515716346419,
+            "contentHash": "82a5078765c2f1122397f2a823a7250f80f7bbdb"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/Account/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/Account/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1515716346419,
+            "changeTime": 1515716346419,
+            "contentHash": "f2d8654b5a95d5c9a93aa04db4fd8fe0b3bfd2c5"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/App_Interest__c",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/App_Interest__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1515716346429,
+            "changeTime": 1515716346429,
+            "contentHash": "6a6367344a511f506aec1f47d38c71de689f8a0c"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/App_Interest__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/App_Interest__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1515716346429,
+            "changeTime": 1515716346429,
+            "contentHash": "79ddf32c16fde93cb3ceb626f18c79039c0c6c51"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/App_Interest__c/listViews",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/App_Interest__c/listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1515716346429,
+            "changeTime": 1515716346429,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/App_Listing__c",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/App_Listing__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1515716346454,
+            "changeTime": 1515716346454,
+            "contentHash": "7da31668a63f1cc3f9fec6332243daf4153f45e2"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/App_Listing__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/App_Listing__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 544,
+            "modifiedTime": 1515716346454,
+            "changeTime": 1515716346454,
+            "contentHash": "29a80201a9bf1b0870e4074638e149652401db9b"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/App_Listing__c/listViews",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/App_Listing__c/listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1515716346454,
+            "changeTime": 1515716346454,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/pages",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/pages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1515716346468,
+            "changeTime": 1515716346468,
+            "contentHash": "21433be571cfe9e215f5e7d96543769eeab53089"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1515716346488,
+            "changeTime": 1515716346488,
+            "contentHash": "bd0327968a490b3f4a35d0ef41856c9008c5b5ab"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/tabs",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1515716346497,
+            "changeTime": 1515716346497,
+            "contentHash": "2a4ad30227e12a7255c563b8291758ea7738142b"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/AddApp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/AddApp",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1515716346499,
+            "changeTime": 1515716346499,
+            "contentHash": "601e0697bc3ecd2f8eb2874c006deae09c5184a9"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/AppListingList",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/AppListingList",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1515716346502,
+            "changeTime": 1515716346502,
+            "contentHash": "ddda4013a33f1bac885732cd085d69ea0465f9f0"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/ClearAppCheckBox",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/ClearAppCheckBox",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1515716346504,
+            "changeTime": 1515716346504,
+            "contentHash": "1bb0a335c109e0c60d466b8f019b1fb4e502f77b"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/EmailLead",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/EmailLead",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1515716346508,
+            "changeTime": 1515716346508,
+            "contentHash": "3f0060f0924c02c8b31ffecdd375d6db22e4552e"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/RemoveApp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/RemoveApp",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1515716346510,
+            "changeTime": 1515716346510,
+            "contentHash": "087e36631e274fa61b3861d8197e4657d6f6cec0"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/SKChange",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/SKChange",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1515716346512,
+            "changeTime": 1515716346512,
+            "contentHash": "63da678b6a0bad8ef50e50292d9e68d9e2babb75"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/SearchBar",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/SearchBar",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1515716346517,
+            "changeTime": 1515716346517,
+            "contentHash": "e82381c09d204ecae2ceff6ba4effdf0e5cb4dc3"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/applications/Appys_Advisors.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/applications/Appys_Advisors.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 578,
+            "modifiedTime": 1515716346387,
+            "changeTime": 1515716346387,
+            "contentHash": "4d8d729ad411580a4f1ace7397e53214a9406875"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/classes/AppListingController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/classes/AppListingController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 4538,
+            "modifiedTime": 1515716346391,
+            "changeTime": 1515716346391,
+            "contentHash": "71bec7e15957fc87eb2ca7dd87d1a4df6f3519a8"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/classes/AppListingController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/classes/AppListingController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1515716346390,
+            "changeTime": 1515716346390,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/contentassets/Appicon.asset",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/contentassets/Appicon.asset",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 32745,
+            "modifiedTime": 1515716346396,
+            "changeTime": 1515716346396,
+            "contentHash": "f7251c0cd9c9ecf01060b43a87480865d72d1643"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/contentassets/Appicon.asset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/contentassets/Appicon.asset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 464,
+            "modifiedTime": 1515716346395,
+            "changeTime": 1515716346395,
+            "contentHash": "cd99779e31f457e49f587d31b03835603d503f04"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/email/AppxGeniusBar/FinalAppxEmail.email",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/email/AppxGeniusBar/FinalAppxEmail.email",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 14490,
+            "modifiedTime": 1515716346520,
+            "changeTime": 1515716346520,
+            "contentHash": "c413cf69d5c818017c4a2e417c64ca2e6bb9dedb"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/email/AppxGeniusBar/FinalAppxEmail.email-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/email/AppxGeniusBar/FinalAppxEmail.email-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 390,
+            "modifiedTime": 1515716346519,
+            "changeTime": 1515716346519,
+            "contentHash": "71608fbe34effa9951f0c297cb346c1d99006e32"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/email/AppxGeniusBar.emailFolder-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/email/AppxGeniusBar.emailFolder-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 238,
+            "modifiedTime": 1515716346399,
+            "changeTime": 1515716346399,
+            "contentHash": "080c1c69234bf8bffacf8aa9308785b1ff3025ad"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/flexipages/AppExchange_Genius_Bar_UtilityBar.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/flexipages/AppExchange_Genius_Bar_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 396,
+            "modifiedTime": 1515716346401,
+            "changeTime": 1515716346401,
+            "contentHash": "b71ff3b2da7a9438b4c5c8d4a90653ff37b54137"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/flexipages/App_Listing_Record_Page.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/flexipages/App_Listing_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2693,
+            "modifiedTime": 1515716346404,
+            "changeTime": 1515716346404,
+            "contentHash": "818d69ac58311080f36f3cf5847dd048d93f3fca"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/flexipages/Appys_Advisors.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/flexipages/Appys_Advisors.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1532,
+            "modifiedTime": 1515716346406,
+            "changeTime": 1515716346406,
+            "contentHash": "69e4592b6432eec324a0e977cb27818b204de0e8"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/layouts/App_Interest__c-App Interest Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/layouts/App_Interest__c-App Interest Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2500,
+            "modifiedTime": 1515716346410,
+            "changeTime": 1515716346410,
+            "contentHash": "13046ba03be67b9f3bc8c529f23b8ad9e64b9cc5"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/layouts/App_Listing__c-App Listing Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/layouts/App_Listing__c-App Listing Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4511,
+            "modifiedTime": 1515716346413,
+            "changeTime": 1515716346413,
+            "contentHash": "a3a14f0dca96f3eb6cf46aebead92b3a976899d4"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/Account/Account.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/Account/Account.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 103,
+            "modifiedTime": 1515716346419,
+            "changeTime": 1515716346419,
+            "contentHash": "280bec81c7b70604977205601148d4a33006ab0f"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/Account/fields/Booth__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/Account/fields/Booth__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 401,
+            "modifiedTime": 1515716346419,
+            "changeTime": 1515716346419,
+            "contentHash": "2a552b19684a6c7ac82996398b4cccd32a10ec9b"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/App_Interest__c/App_Interest__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/App_Interest__c/App_Interest__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2247,
+            "modifiedTime": 1515716346428,
+            "changeTime": 1515716346428,
+            "contentHash": "3f15080f8c57eaf7c8c7cfd64691d4043dec21c7"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/App_Interest__c/fields/App_Listing__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/App_Interest__c/fields/App_Listing__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 564,
+            "modifiedTime": 1515716346429,
+            "changeTime": 1515716346429,
+            "contentHash": "cf766117c7c55503b7d616081549e7423ddd7279"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/App_Interest__c/fields/Lead__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/App_Interest__c/fields/Lead__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 540,
+            "modifiedTime": 1515716346429,
+            "changeTime": 1515716346429,
+            "contentHash": "1de7f866eba71845f1ad8cb55698ad6a27058863"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/App_Interest__c/listViews/All.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/App_Interest__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1515716346429,
+            "changeTime": 1515716346429,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/App_Listing__c/App_Listing__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/App_Listing__c/App_Listing__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2433,
+            "modifiedTime": 1515716346448,
+            "changeTime": 1515716346448,
+            "contentHash": "c9b350442500fe4b57d1ad4b9e92cfe57bbf4544"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/App_Listing__c/fields/App_by_Partner__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/App_Listing__c/fields/App_by_Partner__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 530,
+            "modifiedTime": 1515716346448,
+            "changeTime": 1515716346448,
+            "contentHash": "01a39f6efa57865bf75ee03a8a3b31b0592f20ef"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/App_Listing__c/fields/Brief_Desription__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/App_Listing__c/fields/Brief_Desription__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 369,
+            "modifiedTime": 1515716346449,
+            "changeTime": 1515716346449,
+            "contentHash": "651ab330f0c93deecda394b3e143b796dfee32f9"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/App_Listing__c/fields/Catergory__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/App_Listing__c/fields/Catergory__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2116,
+            "modifiedTime": 1515716346449,
+            "changeTime": 1515716346449,
+            "contentHash": "b19c39976051379300dbd945b3337e24cb8771b0"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/App_Listing__c/fields/Editions__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/App_Listing__c/fields/Editions__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1756,
+            "modifiedTime": 1515716346450,
+            "changeTime": 1515716346450,
+            "contentHash": "4900f777d0f3e4d8fbf3870d68801f342ed59757"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/App_Listing__c/fields/Featured__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/App_Listing__c/fields/Featured__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 361,
+            "modifiedTime": 1515716346450,
+            "changeTime": 1515716346450,
+            "contentHash": "14b30ab09acd0057c8f7d501cceadf3be889e255"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/App_Listing__c/fields/Full_Description__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/App_Listing__c/fields/Full_Description__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 404,
+            "modifiedTime": 1515716346450,
+            "changeTime": 1515716346450,
+            "contentHash": "7a1f9b78d41707940356953efd119c3552eb8618"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/App_Listing__c/fields/Industries__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/App_Listing__c/fields/Industries__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2444,
+            "modifiedTime": 1515716346451,
+            "changeTime": 1515716346451,
+            "contentHash": "0c6a6ff3f62028e731593e2be7e342a034e04f53"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/App_Listing__c/fields/Listing_Id__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/App_Listing__c/fields/Listing_Id__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 405,
+            "modifiedTime": 1515716346451,
+            "changeTime": 1515716346451,
+            "contentHash": "86c9a7cda0e62f51142a14ac2441363d09041372"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/App_Listing__c/fields/Listing_URL__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/App_Listing__c/fields/Listing_URL__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 354,
+            "modifiedTime": 1515716346452,
+            "changeTime": 1515716346452,
+            "contentHash": "c2d282b81ee71c168a1ef4d0d6b3b26f7d6f814a"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/App_Listing__c/fields/Partner__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/App_Listing__c/fields/Partner__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 547,
+            "modifiedTime": 1515716346452,
+            "changeTime": 1515716346452,
+            "contentHash": "529e66dd25fd46fa5d85df4579cedd97059f6e85"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/App_Listing__c/fields/Pricing__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/App_Listing__c/fields/Pricing__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 359,
+            "modifiedTime": 1515716346453,
+            "changeTime": 1515716346453,
+            "contentHash": "bacf6d9ac3f69805fadc5d70ca3cbb77bc8196a8"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/App_Listing__c/fields/Rating__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/App_Listing__c/fields/Rating__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 425,
+            "modifiedTime": 1515716346453,
+            "changeTime": 1515716346453,
+            "contentHash": "13c8c90d1bb2dcab2202429a1547469084b36840"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/App_Listing__c/fields/Short_Description__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/App_Listing__c/fields/Short_Description__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 450,
+            "modifiedTime": 1515716346453,
+            "changeTime": 1515716346453,
+            "contentHash": "630370c56376efff81889552ae11682af3079f34"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/App_Listing__c/fields/Short_Name__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/App_Listing__c/fields/Short_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 545,
+            "modifiedTime": 1515716346453,
+            "changeTime": 1515716346453,
+            "contentHash": "d76506461b466a99bb7705b78bfc3f97eab9e047"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/App_Listing__c/fields/Tagline__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/App_Listing__c/fields/Tagline__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 351,
+            "modifiedTime": 1515716346454,
+            "changeTime": 1515716346454,
+            "contentHash": "26956a3546a445a7f39fceba3b8f62800f048bd1"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/App_Listing__c/listViews/All.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/objects/App_Listing__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1515716346454,
+            "changeTime": 1515716346454,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/pages/AppBanner.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/pages/AppBanner.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 430,
+            "modifiedTime": 1515716346468,
+            "changeTime": 1515716346468,
+            "contentHash": "3b4984cba7d3f06d6fec36e63d713a742c08d072"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/pages/AppBanner.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/pages/AppBanner.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 284,
+            "modifiedTime": 1515716346467,
+            "changeTime": 1515716346467,
+            "contentHash": "aaeb9e6a6ed41733df112ccac7edbe4193ab655a"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/profiles/AppyAdvisor.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/profiles/AppyAdvisor.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 28900,
+            "modifiedTime": 1515717034905,
+            "changeTime": 1515717034905,
+            "contentHash": "63f850b349dbe4595fab2c09257ef5c04d81c055"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/tabs/App_Interest__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/tabs/App_Interest__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 221,
+            "modifiedTime": 1515716346494,
+            "changeTime": 1515716346494,
+            "contentHash": "7504d3a8b6c9802d69ec959b60ca0ef12bdc52b3"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/tabs/App_Listing__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/tabs/App_Listing__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 227,
+            "modifiedTime": 1515716346495,
+            "changeTime": 1515716346495,
+            "contentHash": "fc876039b38c08618da83097bcc770c2f8cc0346"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/tabs/Genius_Bar_2.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/tabs/Genius_Bar_2.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 331,
+            "modifiedTime": 1515716346497,
+            "changeTime": 1515716346497,
+            "contentHash": "254b0d3e8472eb9acacefb061aad60f0ba880251"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/AddApp/AddApp.evt",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/AddApp/AddApp.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 146,
+            "modifiedTime": 1515716346499,
+            "changeTime": 1515716346499,
+            "contentHash": "53692098508ffd0e7822701c08444cd177d8d150"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/AddApp/AddApp.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/AddApp/AddApp.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1515716346499,
+            "changeTime": 1515716346499,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/AppListingList/AppListingList.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/AppListingList/AppListingList.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3968,
+            "modifiedTime": 1515716346501,
+            "changeTime": 1515716346501,
+            "contentHash": "a9023f81b8ac3ea8b65de05cb019d5797a8bc3f2"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/AppListingList/AppListingList.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/AppListingList/AppListingList.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1515716346500,
+            "changeTime": 1515716346500,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/AppListingList/AppListingListController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/AppListingList/AppListingListController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2719,
+            "modifiedTime": 1515716346502,
+            "changeTime": 1515716346502,
+            "contentHash": "fdbe0be3b4cb059957a5fb9daaf47936283b5c00"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/AppListingList/AppListingListHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/AppListingList/AppListingListHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 408,
+            "modifiedTime": 1515716346502,
+            "changeTime": 1515716346502,
+            "contentHash": "a3da6d436b7249b3705d44714166dddc47684316"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/ClearAppCheckBox/ClearAppCheckBox.evt",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/ClearAppCheckBox/ClearAppCheckBox.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 133,
+            "modifiedTime": 1515716346505,
+            "changeTime": 1515716346505,
+            "contentHash": "79f1f824ae969e8a734a19203004840ab89c2b99"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/ClearAppCheckBox/ClearAppCheckBox.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/ClearAppCheckBox/ClearAppCheckBox.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 258,
+            "modifiedTime": 1515716346503,
+            "changeTime": 1515716346503,
+            "contentHash": "11f0abcfd1259b3755ed9c5fd63ac0e23d567004"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/EmailLead/EmailLead.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/EmailLead/EmailLead.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 61634,
+            "modifiedTime": 1515716346506,
+            "changeTime": 1515716346506,
+            "contentHash": "5fe7ce48589527a25271594cdddf0c84cc1b876c"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/EmailLead/EmailLead.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/EmailLead/EmailLead.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1515716346506,
+            "changeTime": 1515716346506,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/EmailLead/EmailLead.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/EmailLead/EmailLead.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 283,
+            "modifiedTime": 1515716346507,
+            "changeTime": 1515716346507,
+            "contentHash": "4dc6c17af8e2cdec2653bbb777afd62ff6b78606"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/EmailLead/EmailLeadController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/EmailLead/EmailLeadController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 4182,
+            "modifiedTime": 1515716346508,
+            "changeTime": 1515716346508,
+            "contentHash": "83dfdd39238b322f77a292ee78bad4e75b545bb6"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/EmailLead/EmailLeadHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/EmailLead/EmailLeadHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 904,
+            "modifiedTime": 1515716346509,
+            "changeTime": 1515716346509,
+            "contentHash": "1915da0b110b0abe2f3c8dcf158c94a547c29fe8"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/RemoveApp/RemoveApp.evt",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/RemoveApp/RemoveApp.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 219,
+            "modifiedTime": 1515716346511,
+            "changeTime": 1515716346511,
+            "contentHash": "85ed8ff17149fcbd887c91d27cf6a22634b29fc2"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/RemoveApp/RemoveApp.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/RemoveApp/RemoveApp.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1515716346510,
+            "changeTime": 1515716346510,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/SKChange/SKChange.evt",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/SKChange/SKChange.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 98,
+            "modifiedTime": 1515716346513,
+            "changeTime": 1515716346513,
+            "contentHash": "3337f0c216a88a5ca58b4c0fd4713ab890aaabcf"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/SKChange/SKChange.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/SKChange/SKChange.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1515716346512,
+            "changeTime": 1515716346512,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/SearchBar/SearchBar.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/SearchBar/SearchBar.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 407,
+            "modifiedTime": 1515716346515,
+            "changeTime": 1515716346515,
+            "contentHash": "a61725dadad74863a4655d64a306e5ca225c316f"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/SearchBar/SearchBar.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/SearchBar/SearchBar.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1515716346514,
+            "changeTime": 1515716346514,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/SearchBar/SearchBarController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/SearchBar/SearchBarController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 919,
+            "modifiedTime": 1515716346516,
+            "changeTime": 1515716346516,
+            "contentHash": "19807bab7ca00fa191ca1c6ce23178046f49279c"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/SearchBar/SearchBarHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/SearchBar/SearchBarHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 197,
+            "modifiedTime": 1515716346517,
+            "changeTime": 1515716346517,
+            "contentHash": "588ca8b5a8f2ff5b71fd857bb0be5fa30d01fc4e"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/SearchBar/SearchBarRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Google Drive/Workspace/appy/force-app/main/default/aura/SearchBar/SearchBarRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 48,
+            "modifiedTime": 1515716346517,
+            "changeTime": 1515716346517,
+            "contentHash": "be4fb16cab0788e3690426cade38290457df8023"
+        }
+    ]
+]

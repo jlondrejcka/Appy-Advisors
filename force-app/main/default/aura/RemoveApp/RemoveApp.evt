@@ -1,0 +1,4 @@
+<aura:event type="APPLICATION" description="remove app from list" >
+     <aura:attribute name="RemoveApp" type="id"/>
+     <aura:attribute name="indexVar" type="Integer" description="Use For Delete Row" />
+</aura:event>

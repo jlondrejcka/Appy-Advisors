@@ -1,0 +1,5 @@
+<apex:page applyBodyTag="false" showHeader="false">
+  <a href="https://appexchange.salesforce.com/">
+        <img class="deviceWidth" width="100%" height="175px" src="https://appysadvisors--c.na74.content.force.com/servlet/servlet.ImageServer?id=0151J000003rsmK&oid=00D1J000000kMDt&lastMod=1508851937000" alt="An E-mail from Appy&#39;s Advisors" border="0" style="display: block; border-radius: 4px 4px 0 0;"/>
+  </a>
+</apex:page>

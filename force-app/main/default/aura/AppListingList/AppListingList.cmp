@@ -1,0 +1,68 @@
+<aura:component controller="AppListingController" implements="flexipage:availableForAllPageTypes" access="global">
+
+   <aura:attribute name="app" type="App_Listing__c[]"/>
+   <aura:handler name="init" value="{!this}" action="{!c.doInit}" />
+   <aura:handler event="c:SKChange" action="{!c.searchKeyChange}" />
+   <aura:handler event="c:ClearAppCheckBox" action="{!c.ClearAppCheckBox}"/>
+   <aura:registerEvent name="AddApp" type="c:AddApp"/>
+   <aura:registerEvent name="RemoveApp" type="c:RemoveApp"/>
+   <aura:attribute name="checkThis" type="Boolean" default="false" />
+
+    
+   <div class=" salesforce slds">
+      <ul class="slds-has-dividers--around-space">
+         <aura:iteration items="{!v.app}" var="app">
+            	<article class="slds-card">
+                  <div class="slds-card__header slds-grid">
+                    <header class="slds-media slds-media_center slds-has-flexi-truncate">
+                      <div class="slds-media__figure">
+                        <span class="slds-icon_container slds-icon-standard-contact" title="description of icon when needed">                           
+                        </span>
+                      </div>
+                      <div class="slds-media__body">
+                        <h2>
+                          <a href="{!'https://appexchange.salesforce.com/listingDetail?listingId=' + app.Listing_Id__c}" target="_blank" class="slds-card__header-link slds-truncate" title="{!app.Name}">
+                          <span class="slds-text-heading_small">{!app.App_by_Partner__c}</span>
+                          </a>
+                        </h2>
+                        <aura:if isTrue="{!equals(app.Tagline__c,null)}">
+                  			<aura:set attribute="else">
+                    			<div class="slds-text-body_regular" title="Accordion summary">{!app.Tagline__c}</div>
+                    		</aura:set>
+                  		</aura:if>  
+                      </div>
+                    </header>
+					<!-- <lightning:input type="checkbox-button" aura:id="{!app.Id}" name="{!app.Id}" label="Add App" value="{!v.checkThis}" checked="false" onchange="{!c.onCheck}"/>-->
+                    <div class="slds-no-flex">
+                       <div class="slds-checkbox_add-button">
+                      
+                           
+                             <!-- Thsi is the input checkbox button 
+                            which doesnot unchek when we remove listing from email componenet-->
+                           
+                          <!--<lightning:input type="checkbox-button" value="{!app.Id }" name="{!app.Id }" aura:id="{!app.Id }" checked="false" onchange="{!c.onCheck}"/>--> 
+					      <input type="checkbox" class="slds-assistive-text" name="{!app.Id }" id="{!app.Id }" checked="false" onchange="{!c.onCheck}"/>
+                            <label for="{!app.Id }" class="slds-checkbox_faux">
+                            <span class="slds-assistive-text">Add App</span>
+                          </label>
+                        </div>
+                    </div>
+                  </div>
+                  <div class="slds-card__body slds-card__body_inner">
+                      <span class="slds-p-left_small">{!app.Short_Description__c}</span>
+                      <a href="{! 'https://appexchange.salesforce.com/listingDetail?listingId=' + app.Listing_Id__c }" target="_blank" class="slds-card__header-link slds-truncate" title="More Info....">
+                       <span >......More Info</span>
+                     </a>
+                      
+                  </div>
+                  <aura:if isTrue="{!equals(app.Partner__r.Booth__c,null)}">
+                  	<aura:set attribute="else">
+                    	<footer class="slds-card__footer">Booth# {!app.Partner__r.Booth__c} </footer>
+                    </aura:set>
+                  </aura:if>
+                </article>
+            
+         </aura:iteration>
+      </ul>
+   </div>
+</aura:component>

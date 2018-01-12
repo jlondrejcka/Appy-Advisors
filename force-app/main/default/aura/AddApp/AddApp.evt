@@ -1,0 +1,4 @@
+<aura:event type="APPLICATION" >
+     <aura:attribute name="addApp" type="id"/>
+     <aura:attribute name="checked" type="boolean"/>
+</aura:event>

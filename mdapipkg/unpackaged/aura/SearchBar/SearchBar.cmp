@@ -1,0 +1,9 @@
+<aura:component implements="flexipage:availableForAllPageTypes" >
+   
+   <aura:registerEvent name="SKChange" type="c:SKChange"/>
+   <aura:attribute name="searchKeyString" type="String"/> 
+
+   <!-- <div class="slds-form-element"> -->
+      <lightning:input type="search" aura:id="SearchInput" onchange="{!c.searchKeyChange}" value="{!v.searchKeyString}" placeholder="Search for Apps" /> 
+  
+</aura:component>

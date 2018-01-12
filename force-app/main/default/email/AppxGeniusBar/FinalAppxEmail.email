@@ -1,0 +1,220 @@
+<messaging:emailTemplate subject="Appy's Advisors: AppExchange recommendations" recipientType="Lead" relatedToType="Lead">
+
+<messaging:htmlEmailBody >
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <title>Appy’s Advisors: AppExchange recommendations</title>
+    <style type="text/css">
+        .ReadMsgBody {
+            width: 100%;
+            background-color: #ffffff;
+        }
+    
+        .ExternalClass {
+            width: 100%;
+            background-color: #ffffff;
+        }
+    
+        body {
+            width: 100%;
+            background-color: #ffffff;
+            margin: 0;
+            padding: 0;
+            -webkit-font-smoothing: antialiased;
+            font-family: 'Salesforce Sans', Arial, sans-serif
+        }
+    
+        table {
+            border-collapse: collapse;
+        }
+    
+        .appreco {
+            display: inline-block;
+            width: 40%;
+        }
+    
+        @media {
+            @font-face {
+                font-family: 'SalesforceSansBold';
+                src: url('http://www.sfdcstatic.com/system/shared/common/assets/fonts/SalesforceSans/SalesforceSans-Bold.eot');
+                src: url('http://www.sfdcstatic.com/system/shared/common/assets/fonts/SalesforceSans/SalesforceSans-Bold.eot?#iefix') format('embedded-opentype'), url('http://www.sfdcstatic.com/system/shared/common/assets/fonts/SalesforceSans/SalesforceSans-Bold.woff') format('woff'), url('http://www.sfdcstatic.com/system/shared/common/assets/fonts/SalesforceSans/SalesforceSans-Bold.woff2') format('woff2'), url('http://www.sfdcstatic.com/system/shared/common/assets/fonts/SalesforceSans/SalesforceSans-Bold.ttf') format('truetype'), url('http://www.sfdcstatic.com/system/shared/common/assets/fonts/SalesforceSans/SalesforceSans-Bold.svg#SalesforceSansBold') format('svg');
+                font-weight: normal;
+                font-style: normal
+            }
+            @font-face {
+                font-family: 'SalesforceSansRegular';
+                src: url('http://www.sfdcstatic.com/system/shared/common/assets/fonts/SalesforceSans/SalesforceSans-Regular.eot');
+                src: url('http://www.sfdcstatic.com/system/shared/common/assets/fonts/SalesforceSans/SalesforceSans-Regular.eot?#iefix') format('embedded-opentype'), url('http://www.sfdcstatic.com/system/shared/common/assets/fonts/SalesforceSans/SalesforceSans-Regular.woff') format('woff'), url('http://www.sfdcstatic.com/system/shared/common/assets/fonts/SalesforceSans/SalesforceSans-Regular.woff2') format('woff2'), url('http://www.sfdcstatic.com/system/shared/common/assets/fonts/SalesforceSans/SalesforceSans-Regular.ttf') format('truetype'), url('http://www.sfdcstatic.com/system/shared/common/assets/fonts/SalesforceSans/SalesforceSans-Regular.svg#SalesforceSansRegular') format('svg');
+                font-weight: normal;
+                font-style: normal
+            }
+        }
+    
+        @media only screen and (max-width: 700px) {
+            body[yahoo] .deviceWidth {
+                width: 440px!important;
+                padding: 0;
+            }
+            body[yahoo] .center {
+                text-align: center!important;
+            }
+            .appreco {
+                display: inline-block;
+                width: 100%;
+            }
+        }
+    
+        @media only screen and (max-width: 479px) {
+            body[yahoo] .deviceWidth {
+                width: 280px!important;
+                padding: 0;
+            }
+            body[yahoo] .center {
+                text-align: center!important;
+            }
+            .appreco {
+                display: inline;
+                width: 100%;
+            }
+        }
+    </style>
+    </meta>
+</head>
+
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" yahoo="fix" style="font-family: 'Salesforce Sans', Arial, sans-serif">
+    <table border="0" cellpadding="0" cellspacing="0">
+        <tr>
+            <td style="width:100%;mso-hide:all;font-size:0px;line-height:0px;max-height:0px;opacity:0;overflow:hidden;">
+                Check out these curated solutions, specifically chosen by Appy’s Advisors to help you with your unique needs.
+            </td>
+        </tr>
+    </table>
+    <!-- Wrapper -->
+    <table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+        <tr>
+            <td width="100%" valign="top" bgcolor="#ffffff" style="padding-top:20px">
+                <!-- BEGIN: Header-->
+                <table width="700" border="0" cellpadding="0" cellspacing="0" align="center" class="deviceWidth" style="margin:0 auto;">
+                    <tr>
+                        <td width="100%" bgcolor="#ffffff">
+                            <!-- Logo -->
+                            <table border="0" cellpadding="0" cellspacing="0" align="left" class="deviceWidth">
+                                <tr>
+                                    <td style="padding:5px 0px 10px" class="center">
+                                        <a href="https://appexchange.salesforce.com?eid=appex-appysadvisor-df17&d=7010M000000uJa0QAE" title='Salesforce AppExchange'><img src="https://w18appxgeniusbar--c.gus.content.force.com/servlet/servlet.ImageServer?id=015B0000000ho6o&oid=00DB0000000JCmV&lastMod=1506984811000" alt="Salesforce.com" border="0" width='169' height='47'/></a>
+                                    </td>
+                                </tr>
+                            </table>
+                            <!-- End Logo -->
+                            <!-- Nav -->
+                            <table border="0" cellpadding="0" cellspacing="0" align="right" class="deviceWidth">
+                                <tr>
+                                    <td class="center" style="font-size: 13px; color: #272727; font-weight: light; text-align: right; font-family: 'Salesforce Sans', Arial, sans-serif; line-height: 13px; vertical-align: middle; padding:15px 0px;">
+                                        <a href="https://twitter.com/appexchange" style="text-decoration: none; color: #3b3b3b;" title='AppExchange on Twitter'><img src="http://image.mail.salesforce.com/lib/fe981c727564047b72/m/1/CorpSocial_Twitter_28x28px.png" alt="AppExchange on Twitter"/></a>
+                                        <a href="https://www.facebook.com/APPEXCHANGE/" style="text-decoration: none; color: #3b3b3b;margin-left:10px" title='AppExchange on Facebook'><img src="http://image.mail.salesforce.com/lib/fe981c727564047b72/m/1/CorpSocial_Facebook.png" alt="AppExchange on Facebook"/></a>
+                                        <a href="https://www.linkedin.com/company/appexchange" style="text-decoration: none; color: #3b3b3b;margin-left:10px" title='AppExchange on LinkedIn'><img src="http://image.mail.salesforce.com/lib/fe981c727564047b72/m/1/CorpSocial_Linkedin_28x28px.png" alt="AppExchange on LinkedIn"/></a>
+                                        <a href="https://www.youtube.com/user/AppExchange" style="text-decoration: none; color: #3b3b3b;margin-left:10px" title='AppExchange on YouTube'><img src="http://image.mail.salesforce.com/lib/fe981c727564047b72/m/1/CorpSocial_YouTube_28x28px.png" alt="AppExchange on YouTube"/></a>
+                                    </td>
+                                </tr>
+                            </table>
+                            <!-- End Nav -->
+                        </td>
+                    </tr>
+                </table>
+                <!-- END: Header -->
+                <!-- One Column -->
+                <table width="700" class="deviceWidth" border="0" cellpadding="0" cellspacing="0" align="center" bgcolor="#f2f3f3" style="margin:0 auto;">
+                    <tr>
+                        <td valign="top" style="padding:0" bgcolor="#ffffff">
+                            <a href="https://appexchange.salesforce.com?eid=appex-appysadvisor-df17&d=7010M000000uJa0QAE"><img  class="deviceWidth" src="https://appexchange.salesforce.com/resource/1507839459000/AppysAdvisor_Top" alt="An E-mail from Appy's Advisors" border="0" style="display: block; border-radius: 4px 4px 0 0;" /></a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="font-size: 16px; color: #000; font-weight: normal; text-align: left; font-family: 'Salesforce Sans', Arial, sans-serif; line-height: 24px; vertical-align: top; padding:10px 20px 0px 20px">
+                            <p>
+                                Dear {!recipient.FirstName},
+                            </p>
+                            <p>
+                                Thanks for stopping by the Appy&rsquo;s Advisors booth at Dreamforce. Here are the solutions recommended for you, and where to find out more about them. Use our handy <a href="https://appexchange.salesforce.com/resource/1509575264000/Dreamforce_Expo?eid=appex-appysadvisor-df17&d=7010M000000uJa0QAE" style='color:#00A0DF;text-decoration:none;font-weight:bold' title="Map of Dreamforce booth locations">Dreamforce Trailmap</a> to locate the partner booths.
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+                <!-- One Column -->
+                <table width="700" class="deviceWidth" border="0" cellpadding="0" cellspacing="0" align="center" bgcolor="#f2f3f3" style="margin:0 auto;">
+                    <tr>
+                        <td style="padding:10px 20px 10px 20px">
+                            <table width="100%" table-layout="fixed" bgcolor="#ffffff">
+                                <!-- BEGIN: All App Listings -->
+                                    <apex:repeat var="cx" value="{!recipient.App_Interests__r}">
+                                        <tr style="border: 1px solid #7F7F7F;">
+                                          <td style="text-align:left;padding:10px 20px 10px 20px;">
+                                            <p><a href="{!cx.App_Listing__r.Listing_URL__c}" style="text-decoration:none;color:#00A0DF;font-weight:bold" class='appreco'>{!cx.App_Listing__r.Name}</a> <span style="color:#333333;">by {!cx.App_Listing__r.Partner__r.Name}   {!IF((cx.App_Listing__r.Partner__r.Booth__c=null),"",", Booth # "&cx.App_Listing__r.Partner__r.Booth__c)}  </span></p>
+                                          </td>
+                                        </tr>
+                                    </apex:repeat>
+                                <!-- END: All App Listings -->
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+                <!-- End One Column -->
+                <!-- BEGIN: End text -->
+                <table width="700" class="deviceWidth" border="0" cellpadding="0" cellspacing="0" align="center" bgcolor="#f2f3f3" style="margin:0 auto;">
+                    <tr>
+                        <td style="font-size: 16px; color: #000; font-weight: normal; text-align: left; font-family: 'Salesforce Sans', Arial, sans-serif; line-height: 24px; vertical-align: top; padding:0px 20px 20px 20px">
+                            <p>
+                                Appy’s Advisors is just one of the many exciting things we’re doing at Dreamforce. Check out <a href="https://appexchange.salesforce.com/appxContentListingDetail?listingId=a0N3A00000EJgJ9UAL&eid=appex-appysadvisor-df17&d=7010M000000uJa0QAE" style='color:#00A0DF;text-decoration:none;font-weight:bold' title='Camp AppExchange'>campappexchange.com</a> to learn more.
+                            </p>
+                            <p>Thanks again for your interest in AppExchange.</p>
+                            <p>Warm regards,
+                                <br />Appy’s Advisors</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td valign="top" style="padding:0" bgcolor="#ffffff">
+                            <a href="https://www.salesforce.com/form/other/appexchange-newsletter.jsp?eid=appex-appysadvisor-df17&d=7010M000000uJa0QAE"><img class="deviceWidth" src="https://appexchange.salesforce.com/resource/1507839514000/AppysAdvisors_Bottom" alt="Subscribe to the AppExchange newsletter" border="0" style="display: block; border-radius: 0 0 4px 4px;" /></a>
+                        </td>
+                    </tr>
+                </table>
+                <!-- END: End text -->
+                <!-- FOOTER START -->
+                <table width="700" class="deviceWidth" border="0" cellpadding="0" cellspacing="0" align="center" bgcolor="#f2f3f3" style="margin:0 auto;">
+                    <tr>
+                        <td align="center" valign="top" bgcolor="#ffffff">
+                            <table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff" class="wrapper">
+                                <tr>
+                                    <td style="padding:20px;" bgcolor="#FFFFFF" align="left" valign="top" class="5pcpadding"><span style="font-family: 'SalesforceSansRegular', Arial, Helvetica, sans-serif; color: #808080; font-size: 11px; line-height: 14px;" class="13font">
+&copy; 2017 salesforce.com, inc. All rights reserved. Various trademarks held by their respective owners.<br /><br />
+
+<a href="https://www.salesforce.com/" style="pointer-events: none; text-decoration: none; color: #808080;">Salesforce.com, inc. The Landmark @ One Market, Suite 300, San Francisco, CA, 94105, United States<br />
+General Enquiries: 415-901-7000 | Fax: 415-901-7040 | Sales: 1-800-NO-SOFTWARE<br />
+<br />
+
+<em>This email was sent to {!recipient.Email}</em></a><br />
+<a href="https://www.salesforce.com/company/privacy" title="Privacy Statement" target="_blank" style="color: rgb(128,128,128); text-decoration: underline">Privacy Statement</a></span>
+                                        <br />
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+                <!-- FOOTER END -->
+                <!-- End 4 Columns -->
+            </td>
+        </tr>
+    </table>
+    <!-- End Wrapper -->
+    <div style="display:none; white-space:nowrap; font:15px courier; color:#ffffff;">
+        - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+    </div>
+</body>
+</html>
+
+</messaging:htmlEmailBody>
+
+
+</messaging:emailTemplate>
